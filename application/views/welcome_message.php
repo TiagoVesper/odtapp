@@ -212,7 +212,7 @@ section.codeigniter p {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CodeIgniter 3 application on OpenShift</h1>
+            <h1>Plenos na nuvem</h1>
           </hgroup>
 
 
