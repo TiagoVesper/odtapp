@@ -13,7 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <section class="container">
 
-        <h1>Oraculos das Tavernas</h1>
+        <h1>Oraculo das Tavernas</h1>
         <hr>
 
     <!--BEGIN FORM-->
